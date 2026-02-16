@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.flashCard {
+  display: flex;
+  max-width: 50%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  font-size: 30px;
+  min-height: 200px;
+}
